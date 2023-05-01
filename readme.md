@@ -17,7 +17,7 @@ O contexto da página é sobre o filme Mario, a página tinha como objetivo prom
 # 📷 Versão Moblie
 
 <div align="center" >
- <img src="https://user-images.githubusercontent.com/123023440/235526973-e495b135-4a49-4f3f-b3ee-1adfdee9fb14.gif">
+ <img src="https://user-images.githubusercontent.com/123023440/235528786-4b786797-3b9e-4d32-80f6-029c8a0b8897.gif>
 </div>
 
 ## 🧑🏾‍💻 Ferramentas Utilizadas
@@ -30,7 +30,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📂Acesso ao Projeto
 
-Você pode acessar o projeto <a href="https://eolima.github.io/Projeto_LandingPage_OneBitCode/" target="_blank" > aqui </a>
+Você pode acessar o projeto <a href="https://eolima.github.io/Projeto_PaginaMario/" target="_blank" > aqui </a>.
 
 ### Contate-me
 
