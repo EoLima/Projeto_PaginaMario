@@ -17,7 +17,7 @@ O contexto da página é sobre o filme Mario, a página tinha como objetivo prom
 # 📷 Versão Moblie
 
 <div align="center" >
- <img src="https://user-images.githubusercontent.com/123023440/235528786-4b786797-3b9e-4d32-80f6-029c8a0b8897.gif>
+ <img src="https://user-images.githubusercontent.com/123023440/235528786-4b786797-3b9e-4d32-80f6-029c8a0b8897.gif">
 </div>
 
 ## 🧑🏾‍💻 Ferramentas Utilizadas
